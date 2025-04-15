@@ -6,5 +6,6 @@ public enum State {
     INACTIVE,
     SUSPENDED,
     CLOSED,
-    DEFAULT;
+    DEFAULT,
+    NUGGETS;
 }
